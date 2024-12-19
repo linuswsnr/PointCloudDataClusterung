@@ -1,0 +1,18 @@
+Vorbereitung
+==========================
+
+1. Datensatz verstehen 
+2. Clusteringverfahren recherchieren und ausprobieren -> DB-scan und mean-shift jeder schaut sich ein Verfahren an.
+3. Vergleich beider Verfahren und Entscheidung für eines
+4. Zusatz: 
+    4.1 einfache Klassifizierung der Kluster mittels Relativgeschwindigkeit, Größe
+    4.2 Größe und Orientierung von Fahrzeugen mittels L-shape Verfahren erkennen
+
+
+
+Präsentation
+==========================
+
+1. Datensatz kurz vorstellen und Datenaufbereitung erklären
+2. Clusteringverfahren erklären und vergleichen
+3. Begründung für die Entscheidung des besseren Verfahrens
